@@ -1,2 +1,2 @@
 # Daily-Apologist
-#
+# 📖 Daily Apologist  **Daily Apologist** is a responsive front-end web application designed to provide clear, biblical answers to tough theological and apologetic questions. Built with HTML, Tailwind CSS, and JavaScript, this project is part of a broader vision to create a modern, interactive apologetics hub.  ---  ## 🚀 Features  - 🌓 **Dark Mode Toggle** with persistent preference - 📚 FAQ accordion sections for popular theology questions - 🎯 Clean, responsive design built with Tailwind CSS - 💡 Easily extendable to support AI-powered Q&A, backend storage, and user interaction  ---  ## 🛠️ Tech Stack  - HTML5 - Tailwind CSS (via CDN) - Vanilla JavaScript  ---
